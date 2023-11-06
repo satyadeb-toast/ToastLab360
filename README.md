@@ -1,4 +1,4 @@
-# ToastLab360: Empowering Remote Testing
+# ToastLab360: Empowering Remote Device Testing
 
 ToastLab360 is an idea to establish a Robust In-House Lab for testing Toast Android hardwares remotely.
 
