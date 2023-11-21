@@ -13,7 +13,7 @@ Here's how it works:
 
 Each RDP login is associated with specific users and their corresponding login credentials. Notably, each user can be connected to one or more Android devices, allowing for efficient and concurrent testing. This setup optimizes the management of the lab's resources, enhances productivity, and streamlines the testing process. It's an innovative solution for collaborative and remote device management, ensuring that your lab operates efficiently and effectively.
 
-![Screenshot](https://drive.google.com/uc?export=view&id=1R0DHoviJuB6sHGfxN10nXHR47-_tjJLj)
+![Screenshot](https://drive.google.com/uc?export=view&id=1b4GYHdWoK03AlL1QsdiSqCDIAeyIf5c6-_tjJLj)
 * Figure 1: Lab Setup Connection Overview
 
 ## Advantages
